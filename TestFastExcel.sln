@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFastExcel", "TestFastExcel.csproj", "{3FAE2C21-65FC-4230-ADC2-7FAF26AD093C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FAE2C21-65FC-4230-ADC2-7FAF26AD093C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAE2C21-65FC-4230-ADC2-7FAF26AD093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAE2C21-65FC-4230-ADC2-7FAF26AD093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAE2C21-65FC-4230-ADC2-7FAF26AD093C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7481EB6C-4280-4C0C-94F4-123092059A4F}
+	EndGlobalSection
+EndGlobal
